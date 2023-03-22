@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa02_01viewandviewgroup
+package com.roynaldi19.dc2_04viewandviewgroup
 
 import org.junit.Test
 
